@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A blog of mobile engineering manager
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://platech.github.io'
+url: 'https://mattplatek.com'
 
 github:
   username: platech             # change to your github username
