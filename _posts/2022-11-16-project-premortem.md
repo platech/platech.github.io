@@ -1,8 +1,8 @@
 ---
 title: Project Premortem — how to predict and mitigate risk
 date: 2022-11-16 11:00:00 +1000
-categories: [General]
-tags: [Introduction]     # TAG names should always be lowercase
+categories: [Project Management]
+tags: [team,processes]     # TAG names should always be lowercase
 ---
 
 ![A group of people brainstorming](/assets/img//posts/brainstorming.jpeg)
@@ -99,4 +99,4 @@ What actions can be taken:
 
 You can use a premortem in virtually any company or private project. **Before taking expensive actions, think about what can go wrong in a project and mitigate any problems long before they happen**.
 
-This post has originally been published on nomtek.com as [*Premortem — A Core Part of Your Digital Product](https://www.nomtek.com/blog/project-premortem)*
+This post has originally been published on nomtek.com as [Premortem — A Core Part of Your Digital Product](https://www.nomtek.com/blog/project-premortem)
