@@ -19,12 +19,12 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Matt Platek's Blog                          # the main title
+title: Matt Platek                      # the main title
 
-tagline: An introvert sharing knowledge   # it will display as the sub-title
+tagline: A tech-leadership blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog of mobile engineering manager
+  A blog of mobile engineering manager about tech-leadership
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://platech.github.io'
@@ -41,12 +41,13 @@ social:
   name: Matt Platek
   email: contact@mattplatek.com             # change to your email address
   links:
+    - https://www.linkedin.com/in/mateusz-p%C5%82atek-529b9571/
     # The first element serves as the copyright owner's link
     - https://twitter.com/MatPlatek      # change to your twitter homepage
     - https://github.com/platech     # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/mateusz-p%C5%82atek-529b9571/
+
 
 google_site_verification:               # fill in to your verification string
 
