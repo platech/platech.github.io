@@ -19,3 +19,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
+
+# https://github.com/helaili/jekyll-action/issues/150
+gem "jekyll-sass-converter", "~> 2.0"
