@@ -10,9 +10,9 @@ It is often said that the first step is always the hardest - and my blog endeavo
 This post is an experiment that could help me break this vicious cycle. The rules are simple:
 - Start small & easy - Listing ideas and areas of my expertise is relatively easier than going deep into a selected topic.
 - Accountability - Thanks to listing topics I immediately feel pushed to turn them into actual blog posts. If I share my goals with my audience I have a higher chance to keep my promise.
-- It's an experiment - By calling it an experiment I'm not scared of failure. It can either jump-start my blogging habit or become a learning opportunity that will fuel next experiment.
+- It's an experiment - By calling it an experiment I'm not scared of failure. It can either jump-start my blogging habit or become a learning opportunity that will fuel the next experiment.
 
-Enough theory, let's move to the essence of this post. I've grouped my ideas into themes that I plan to expand whenever new ideas comes up. I encourage you to leave a comment if you would like me to focus on a particular topic first.
+Enough theory, let's move to the essence of this post. I've grouped my ideas into themes that I plan to expand whenever new ideas come up. I encourage you to leave a comment if you would like me to focus on a particular topic first.
 
 ## Growth - How I keep to self-improve
 - Feedback - A powerful tool for self-improvement. How to ask for it, receive it and give it.
