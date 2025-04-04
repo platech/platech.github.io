@@ -22,3 +22,7 @@ gem "webrick", "~> 1.7"
 
 # https://github.com/helaili/jekyll-action/issues/150
 gem "jekyll-sass-converter", "~> 2.0"
+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
